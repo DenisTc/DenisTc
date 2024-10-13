@@ -4,7 +4,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-02579e?style=for-the-badge&logo=Dart&logoColor=42d2fd)
 
 ### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-02579e?style=for-the-badge&logo=Telegram&logoColor=00000)](https://t.me/denis_tc)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-02579e?style=for-the-badge&logo=LinkedIn&logoColor=00000)](https://www.linkedin.com/in/denis-tsyapalo)
+[![Telegram](https://img.shields.io/badge/-Telegram-02579e?style=for-the-badge&logo=Telegram&logoColor=00000)](https://t.me/q2x1Sg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-02579e?style=for-the-badge&logo=LinkedIn&logoColor=00000)](https://www.linkedin.com/in/denis-tciapalo/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisTc&show_icons=true)](https://github.com/DenisTc/github-readme-stats)
